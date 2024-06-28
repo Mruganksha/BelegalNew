@@ -20,17 +20,17 @@ body{
 }
 /*hero section*/
 .hero{
-    height: 800px;
+    height: 720px;
     margin: 0px 0px 0px 0px;
     background-image: url("smiling-man-using-tablet-at-the-window-BSZF00277-removebg-preview 1.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
-    margin-right: 2%;
+    margin-right: 3%;
 }
-.hero{
-    margin-left: 2.5%;
-    margin-top: 80px;
+.text{
+    margin-left: 4.5%;
+    margin-top: 60px;
     left: 57px;
     top: 486px;
    font-weight: 400;
@@ -58,4 +58,81 @@ body{
    font-size: 50px;
    line-height: 61px;
    color: #222831;
+}
+.search{
+    margin-top: 30px;
+    width: 540px;
+    height: 78px;
+    background-color: #B0CEDE;
+    color: grey;
+    border-color: #B0CEDE;
+    border-radius: 30px;
+    font-size: 30px;
+    margin-left: 4%;
+}
+.search-icon{
+    height: 72px;
+    width: 44px;
+    background-color: #B0CEDE;
+    color: grey;
+    border-color: #B0CEDE;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.icons{
+    display: flex;
+    margin-left: 4.5%;
+    font-size: small;
+    margin-top: 2%;
+}
+.icons button{
+    background-color: #B0CEDE;
+    border-radius: 10px;
+    height: 28px;
+    width: 90px;
+    margin-right: 1%;
+    margin-left: 8px;
+    border-color: #B0CEDE;
+}
+.meet{
+    background-color: #069E31;
+    font-weight: bold;
+    color: white;
+    height: 55px;
+    width: 420px;
+    margin-left:8.3%;
+    font-size: 27px;
+    border-color: #069E31;
+    border-radius: 8px;
+    margin-top: 2%;
+}
+.news{
+    display: flex;
+    margin-top: 2.5%;
+    margin-left: 5%;
+}
+.news img{
+    margin-right: 23px;
+}
+.news p{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 15px;
+    margin-top: 40px;
+}
+
+/*button services*/
+.mid{
+    margin-top: 5%;
+}
+.mid h1{
+    color: #5488a3;
+    margin-left: 37%;
+    font-weight: bold;
+    font-size: 65px;
+}
+.mid p{
+    color: #6eafd1;
+    margin-left: 29%;
+    font-size: 30px;
 }
