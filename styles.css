@@ -133,6 +133,26 @@ body{
 }
 .mid p{
     color: #6eafd1;
-    margin-left: 29%;
+    margin-left: 28%;
     font-size: 30px;
+}
+.col button{
+    width: 350px;
+    height: 215px;
+    background-color: #E1F1FA;
+    border: #E1F1FA;
+    border-radius: 8px;
+    margin-bottom: 40px;
+    color: #222831;
+    column-gap: 5%;
+    padding-right: 5%;
+}
+.col button h1{
+    color: #222831;
+}
+.col{
+    column-gap: 6%;
+}
+.col button:hover{
+    border-color: #6eafd1;
 }
