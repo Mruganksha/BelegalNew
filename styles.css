@@ -156,3 +156,65 @@ body{
 .col button:hover{
     border-color: #6eafd1;
 }
+/*body*/
+.mid2{
+    background-color: #E1F1FA;
+    text-align: center;
+    color: #222831;
+    font-weight: bold;
+    font-size: 50px;
+    border-top: 40px;
+}
+.mid2 p{
+    color: #000000;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.col-servi{
+    font-size: 18px;
+    font-weight: lighter;
+
+}
+.col-servi h2{
+    font-weight: bolder;
+}
+/*links*/
+.links{
+
+    background-color: #001E4B;
+}
+.col-link{
+    padding-top: 2.2%;
+    padding-left: 3%;
+}
+
+/*about */
+.about{
+    width: 84%;
+    padding-bottom: 5%;
+    margin-left: 8%;
+    margin-top: 5%;
+    background-color: #001E4B;
+    border-radius: 20px;
+    color: #2F759C;
+    text-align: center;
+}
+.letter{
+    align-items: center;
+    font-size: 82px;
+    color: #62a5ca;
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.letter p{
+    font-size: 20px;
+    color: black;
+    font-weight: lighter;
+}
+.letter button{
+   text-align: center;
+   align-items: center;
+   margin-left: 0%;
+}
