@@ -218,3 +218,114 @@ body{
    align-items: center;
    margin-left: 0%;
 }
+
+/*testimonials*/
+.test{
+    background-color: #E1F1FA;
+    padding-bottom: 5%;
+}
+.test h1{
+    color: #222831;
+    font-size: 53px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.pics{
+    margin-top: 5%;
+    display: flex;
+    margin-left: 22%;
+    margin-right: 3%;
+    
+}
+.accordion{
+    display: flex;
+}
+.accordion-button{
+    border-color:#E1F1FA ;
+    padding-right: 2%;
+}
+.accordion-button:hover{
+    border-color: #E1F1FA;
+}
+.content{
+    background-color: white;
+    color: black;
+    width: 90%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+}
+.content p{
+    color: grey;
+}
+.content h3{
+    font-weight: bold;
+}
+
+/*contact and location */
+.blu{
+    background-color: #001E4B;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+.container-last h1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 9%;
+}
+.container-last input{
+   height: 70px;
+   width: 70%;
+   background-color: #001E4B;
+   margin-left: 100px;
+   border-color: #001E4B;
+   border-radius: 10px;
+   font-size: 25px;
+}
+.container-last textarea{
+   height: 70px;
+   width: 400px;
+   background-color: #001E4B;
+   margin-left: 100px;
+   border-color: #001E4B;
+   border-radius: 10px;
+   font-size: 25px;
+}
+.container-last button{
+   height: 50px;
+   width: 300px;
+   background-color: #2F759C;
+   margin-left: 100px;
+   border-color: #2F759C;
+   border-radius: 10px;
+   font-size: 25px;
+}
+.location{
+    display: list-item;
+     margin-top: 6%;
+     margin-left: 8%;
+     margin-right: 8%;
+     margin-bottom: 3%;
+ }
+
+ /*end-section*/
+ .end{
+    display: flex;
+   background-color: #25282F;
+   color: white;
+}
+.end table{
+    margin-left: 52px;
+    color: white;
+    column-gap: 30px;
+    font-size: small;
+}
+.end img{
+    margin-left: 280px;
+    margin-top: 50px;
+}
+.end p{
+    margin-top: 200px;
+}
