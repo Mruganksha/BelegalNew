@@ -329,3 +329,40 @@ body{
 .end p{
     margin-top: 200px;
 }
+
+/*mail section*/
+.more{
+    width: 550px;
+    height: 600px;
+    padding: 10px;
+    border: 2px gray dotted;
+    border-radius: 1px;
+    margin-left: 35%;
+    margin-top: 50px;
+    border-radius: 2px;
+    background-color: #2F759C;
+    color: white;
+}
+.more h1{
+    margin-left: 120px;
+    font-weight: bold;
+    font-size: 45px;
+}
+.acc{
+    margin-left: 80px;
+}
+.acc label{
+    margin-bottom: 90px;
+}
+.met{
+    background-color: #069E31;
+    font-weight: bold;
+    color: white;
+    height: 55px;
+    width: 420px;
+    font-size: 27px;
+    
+}
+.contact-text{
+    color: white;
+}
